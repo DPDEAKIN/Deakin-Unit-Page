@@ -24,6 +24,7 @@ th, td {
   border-bottom: 1px solid #ddd;
   font-family: Arial
  }
+<<<<<<< HEAD
  tr:nth-child(odd) {background-color: #f2f2f2;}
 =======
 div{
@@ -31,3 +32,6 @@ div{
   text-align: right;
 }
 >>>>>>> c914e92e8c7b6ca768a3b1ceb64afa912dc3a42e
+=======
+ tr:nth-child(odd) {background-color: #f2f2f2;}
+>>>>>>> add-table
